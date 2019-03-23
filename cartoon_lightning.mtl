@@ -1,0 +1,12 @@
+# Blender MTL File: 'cartoon_lightning.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 225.000000
+Ka 0.365297 0.365297 0.365297
+Kd 0.800000 0.463299 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
